@@ -59,7 +59,7 @@ This compiles convert_batch.cu into the convert_batch executable, linking agains
 If you ever need to clean up:
 
 ```bash
-make``clean`
+make clean
 ```
 
 Running

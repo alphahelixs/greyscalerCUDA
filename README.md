@@ -52,7 +52,7 @@ Building
 
 From the project root, simply run:
 ```bash
-make```
+make
 ```
 This compiles convert_batch.cu into the convert_batch executable, linking against libtiff and the CUDA runtime.
 
